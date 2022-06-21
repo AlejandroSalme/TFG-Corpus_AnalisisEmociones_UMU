@@ -1,5 +1,7 @@
 ## TFG - UMU - Compilación y evaluación de un corpus sobre emociones relacionadas con la salud mental aplicando modelos del lenguaje. 
 
+[a relative link](SalmerónRíosAlejandro_TFG.pdf)
+
  El Análisis de Emociones es un área enmarcada en el dominio de la clasificación de texto cuyo principal objetivo dentro del Procesamiento del Lenguaje Natural es la identificación de emociones en base a un texto. El auge actual de las redes sociales y motivos como poder reconocer el estado de ánimo de un usuario en un determinado momento, han impulsado este campo a una continua investigación y desarrollo. 
 Este interés, ligado a los avances y mejoras que también ha sufrido la investigación sobre el Procesamiento del Lenguaje Natural, han proporcionado nuevas técnicas que obtienen resultados muy llamativos y favorables sobre este tipo de tareas, como los Transformers.
 
